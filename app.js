@@ -1,0 +1,1 @@
+alert("javasrript is awesome scripting language!");
